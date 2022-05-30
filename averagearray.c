@@ -25,3 +25,13 @@ int main()
      return 0;
 }
 
+
+compilation terminated.
+~/19ECB132-1$ gcc averagearray.c
+~/19ECB132-1$ ./a.out
+Enter 8 Numbers:
+1 2 3 4 5 6 7 8
+Sum of Array Elements = 36
+Average of Elements   = 4.50
+Greatest Element      = 8
+Lowest Element        = 1~/19ECB132-1$ 
