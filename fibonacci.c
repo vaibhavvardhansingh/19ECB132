@@ -26,3 +26,8 @@ int main() {
 
   return 0;
 }
+output
+~/19ECB132-1$ gcc fibonacci.c
+~/19ECB132-1$ ./a.out
+Enter the number of terms: 10
+Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ~/19ECB132-1$ 
