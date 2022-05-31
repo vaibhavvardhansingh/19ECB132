@@ -29,3 +29,10 @@ int main() {
 
   return 0;
 }
+output
+~/19ECB132-1$ gcc calc.c
+~/19ECB132-1$ ./a.out
+Enter an operator (+, -, *, /): +
+Enter two operands: 1
+2
+1.0 + 2.0 = 3.0
