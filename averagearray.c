@@ -26,7 +26,6 @@ int main()
 }
 
 
-compilation terminated.
 ~/19ECB132-1$ gcc averagearray.c
 ~/19ECB132-1$ ./a.out
 Enter 8 Numbers:
