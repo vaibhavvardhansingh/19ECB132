@@ -39,3 +39,22 @@ void frequency(int a[],int n)
           printf("\nthe frequency of element %d  is %d",a[i],c);
      }
 }
+Enter limit of array: 10
+
+Enter array: 1
+2
+3
+
+46
+7
+7
+7
+7
+7
+7
+
+the frequency of element 1  is 1
+the frequency of element 2  is 1
+the frequency of element 3  is 1
+the frequency of element 46  is 1
+the frequency of element 7  is 6
